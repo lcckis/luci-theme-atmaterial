@@ -769,7 +769,7 @@ fieldset > .table > .tr:nth-of-type(odd) {
 #memcache > div,
 #memtotal > div {
     width: 100% !important;
-    border-color:#ccc !important;
+    border-color: #90EE90 !important;
     height:20px !important;
     color: #90EE90 !important;
 }
