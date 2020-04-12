@@ -769,9 +769,9 @@ fieldset > .table > .tr:nth-of-type(odd) {
 #memcache > div,
 #memtotal > div {
     width: 100% !important;
-    border-color: #ccc !important;
+    border-color:#ccc !important;
     height:20px !important;
-    color: #90EE90 !important;
+    color: #76838f !important;
 }
 
 #swaptotal > div > div,
@@ -783,7 +783,7 @@ fieldset > .table > .tr:nth-of-type(odd) {
 #memcache > div > div,
 #memtotal > div > div {
     height: 1.4rem !important;
-    background-color: #e4eaec !important;
+    background-color: #90EE90 !important;
 }
 
 /* fix multiple table */
